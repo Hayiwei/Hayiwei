@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Hayiwei — Data, made clear.</title>
+  <desc id="desc">A navy and teal banner for a Data Science graduate student building small tools and thoughtful visualizations. The geometric motif is decorative.</desc>
+  <rect width="1200" height="320" rx="20" fill="#142D42"/>
+  <path d="M805 0H1200V320H940Z" fill="#19394D"/>
+  <g fill="none" stroke="#315367" stroke-width="1">
+    <path d="M850 68H1145M850 123H1145M850 178H1145M850 233H1145"/>
+    <path d="M870 48V253M925 48V253M980 48V253M1035 48V253M1090 48V253"/>
+  </g>
+  <path d="M865 213L919 182L973 196L1027 123L1081 143L1135 81" fill="none" stroke="#69C9C5" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <g fill="#69C9C5"><circle cx="865" cy="213" r="5"/><circle cx="919" cy="182" r="5"/><circle cx="973" cy="196" r="5"/><circle cx="1027" cy="123" r="5"/><circle cx="1081" cy="143" r="5"/><circle cx="1135" cy="81" r="5"/></g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="62" y="74" font-size="17" font-weight="600" letter-spacing="4" fill="#7DD3CE">HAYIWEI</text>
+    <text x="58" y="155" font-size="60" font-weight="650" letter-spacing="-2" fill="#FFFFFF">Data, made clear.</text>
+    <text x="62" y="207" font-size="20" fill="#B9CDD9">Data Science graduate student</text>
+    <text x="62" y="255" font-size="16" fill="#8FB0C1">SMALL TOOLS  /  STATISTICAL THINKING  /  VISUAL STORIES</text>
+  </g>
+</svg>
