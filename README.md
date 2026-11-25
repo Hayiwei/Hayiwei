@@ -20,6 +20,7 @@ checking the details, and making the result easy to understand.
 <h3><a href="https://github.com/Hayiwei/data-viz-gallery">Data Viz Gallery</a></h3>
 <a href="https://github.com/Hayiwei/data-viz-gallery"><img src="https://raw.githubusercontent.com/Hayiwei/data-viz-gallery/main/docs/figures/05-distance-scatter.png" alt="A scatter plot comparing synthetic commute distance and duration" width="100%"></a>
 <p>Six reproducible chart recipes with a consistent visual style, documented synthetic data, and PNG/SVG exports.</p>
+<p><a href="https://hayiwei.github.io/data-viz-gallery/">Browse the live gallery →</a></p>
 <p><code>Python</code> <code>Matplotlib</code> <code>NumPy</code></p>
 </td>
 </tr>
